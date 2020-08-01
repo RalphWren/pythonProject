@@ -1,0 +1,9 @@
+/venv/
+.gitignore
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pythonProject.iml
+main.py
+
